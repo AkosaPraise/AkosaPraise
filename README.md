@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Cloud Computing**
 
-- 👨‍💻 All of my projects are available [@akosapraise]([github.com/Elanza-48](https://github.com/akosapraise/akosapraise))
+- 👨‍💻 All of my projects are available [@akosapraise](https://github.com/akosapraise/)
 
 - 💬 Ask me about **Web development and Javascript 😆**
 
