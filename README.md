@@ -17,9 +17,9 @@
 
 ---
 
-<h3 align="center">Languages</h3>
+<h3 >Languages</h3>
 
-<p align="center">
+<p >
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -48,8 +48,8 @@
 </p>
 
 
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
+<h3 >Version Control & CI/CD</h3>
+<p >
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 >Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -68,7 +68,7 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3 >Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
   <div>
