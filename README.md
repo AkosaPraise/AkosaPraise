@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-  <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
@@ -60,7 +59,7 @@
 </p>
 
 <h3 >Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+<p > 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -70,7 +69,7 @@
 
 <h3 >Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
+<div style="margin-top:10px" >
   <div>
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
