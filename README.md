@@ -5,12 +5,12 @@
 <h1 align="center">Hi, I'm Akosa Praise<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate Front-end Developer and an aspiring Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **To be Extroverted** 
+- 🌱 I’m currently learning **Javascript to enhance my skillset** 
 
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Cloud Computing**
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+- 👨‍💻 All of my projects are available [@akosapraise]([github.com/Elanza-48](https://github.com/akosapraise/akosapraise))
 
 - 💬 Ask me about **Web development and Javascript 😆**
 
